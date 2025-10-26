@@ -27,8 +27,6 @@ A simple, from-scratch implementation of **logistic regression** using the **Ite
 │ ├─ irls_utils.R # IRLS functions (unreg + L2), helpers
 │ └─ run_all_steps.R # Main script: reproduces all steps and prints results
 ├─ figures/ # Saved plots (optional)
-├─ report/ # LaTeX report (abstract, objectives, intro, etc.)
-│ └─ main.tex
 └─ README.md
 
 ---
